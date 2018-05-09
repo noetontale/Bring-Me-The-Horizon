@@ -1,0 +1,18 @@
+/* line 4, screen.scss */
+body {
+  background-image: url(../image/fond.jpg);
+  background-attachment: fixed;
+  background-repeat: no-repeat;
+  background-position: center center;
+}
+
+/* line 10, screen.scss */
+.navbar {
+  background-color: black;
+}
+
+/* line 17, screen.scss */
+.logo {
+  width: 50px;
+  height: 50px;
+}
